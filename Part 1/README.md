@@ -8,5 +8,5 @@ The code uses the Cycle Combined Power Plant (CCPP) dataset which consists of 95
 - RMSE
 - NMSE
 - NDEI
-- R<exp>2</exp>
+- R<sup>2</sup>
 

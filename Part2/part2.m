@@ -1,4 +1,3 @@
-%Eleftheria Papaioannou AEM:8566
 %Fuzzy Systems, exercise 3 part 2
 
 clear all;

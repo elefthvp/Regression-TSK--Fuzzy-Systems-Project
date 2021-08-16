@@ -12,4 +12,4 @@ The code uses the Cycle Combined Power Plant (CCPP) dataset which consists of 95
 - NDEI
 - R<sup>2</sup>
 
-These metrics have been implemented in the respetive files found in the main folder and need to be included in the same repository as the `part1` file for it to execute.
+These metrics have been implemented in the respective files found in the main folder and need to be included in the same repository as the `part1` file for it to execute.

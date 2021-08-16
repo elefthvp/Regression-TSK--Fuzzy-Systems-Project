@@ -55,7 +55,6 @@ optimal = {};
 
         for j = 1:5
             [row, col, v_80] = find(positions.*(~cv.test(j))'); 
-            %% ektos tou 20% 
             [row, col, v_20] = find(positions.*(cv.test(j))'); % 20 %
             trn_80 = trn(v_80, :);
             v_20 = trn(v_20, :);

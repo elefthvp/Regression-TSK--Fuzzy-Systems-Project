@@ -102,7 +102,3 @@ plot(ERROR, 'LineWidth',1.5)
 hold on
 plot(CHKERROR, 'LineWidth', 1.5)
 legend('Training', 'Check')
-
-
-
-
